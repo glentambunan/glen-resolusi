@@ -2,3 +2,5 @@ rencana konten glen
 -membuat javacript
 -belajar laravel
 -belajar php framework
+-belajar makan
+-makan nasi
