@@ -4,3 +4,4 @@ rencana konten glen
 -belajar php framework
 -belajar makan
 -makan nasi
+-struktur data
