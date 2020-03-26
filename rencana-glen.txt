@@ -1,0 +1,4 @@
+rencana konten glen
+-membuat javacript
+-belajar laravel
+-belajar php framework
